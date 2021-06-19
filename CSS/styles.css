@@ -1,0 +1,59 @@
+.Wrapper{
+      background-color: rgb(8, 8, 8);
+      height: 1350px;
+      width: 98%;
+      display: block;
+      padding: 10px 10px 10px 10px;
+      
+    }
+.header {
+      background-color: rgb(60, 60, 145);
+      height: 200px;
+      width: 100%;
+      float: left;
+      margin: 0px 0px 10px 0px;
+      text-align: center;
+      align-items: center;
+    }
+
+    .nav {
+      background-color: rgb(144, 145, 60);
+      height: 30px;
+      text-decoration: none;
+      width: 98%;
+      float: left;
+      margin: 0px 0px 0px 0px;
+      padding-left: 10px;
+      padding-right: 10px;
+      text-decoration: solid;
+      text-decoration-color: blue;
+
+}
+
+.aside{
+      background-color: rgb(124, 101, 32);
+      height: 800px;
+      width: 24%;
+      float: left;
+      margin: 10px 0px 10px 0px;
+      text-align: center;
+    }
+
+.Profile{
+      background-color: rgb(93, 112, 62);
+      height: 800px;
+      width: 75%;
+      float: right;
+      margin: 10px 0px 10px 0px;
+      text-align: center;   
+    }
+  
+.footer{
+      background-color: rgb(128, 46, 128);
+      height: 250px;
+      width: 100%;
+      float: left;
+      margin: 10px 0px 10px 0px;
+      text-align: center;
+    }
+    
